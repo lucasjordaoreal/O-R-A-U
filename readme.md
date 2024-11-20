@@ -1,6 +1,3 @@
-Aqui está um modelo de `README.md` para o seu projeto de Otimização de Rota em Ambiente Urbano:
-
-```markdown
 # Otimização de Rota em Ambiente Urbano com Simulated Annealing
 
 ## 🚀 Sobre o Projeto
